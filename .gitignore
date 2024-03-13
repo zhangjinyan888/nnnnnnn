@@ -1,0 +1,4 @@
+models/
+saved_parameters.json
+data.json
+__pycache__/
