@@ -1,18 +1,3 @@
-![Screenshot 2024-02-10 091752](https://github.com/Hillobar/Rope/assets/63615199/dd8ab00b-d55f-4196-a50b-f2a326fba83a)
-
-Rope implements the insightface inswapper_128 model with a helpful GUI.
-### [Discord](https://discord.gg/EcdVAFJzqp)
-
-### [Donate](https://www.paypal.com/donate/?hosted_button_id=Y5SB9LSXFGRF2)
-
-### [Wiki with install instructions and usage](https://github.com/Hillobar/Rope/wiki)
-
-### [Demo Video (Rope-Ruby)](https://www.youtube.com/watch?v=4Y4U0TZ8cWY)
-
-## Current Problems/Issues:
-* Audio has yet to be implemented
-* Recording does not work
-* Source face canvas has issues
 
 ### Disclaimer: ###
 Rope is a personal project that I'm making available to the community as a thank you for all of the contributors ahead of me.
